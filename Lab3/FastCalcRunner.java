@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class FastCalcRunner here.
+ * Get's the factorial value of n
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @Pjotr Rotteveel 
+ * September 2016
  */
 public class FastCalcRunner{   
     public static void main(String[] args) {
