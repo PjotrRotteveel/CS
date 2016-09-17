@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class LoopOneRunner here.
+ * Prints an array of multiples of five
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Pjotr Rotteveel
+ * Spetember 2016
  */
 public class LoopOneRunner
 {
