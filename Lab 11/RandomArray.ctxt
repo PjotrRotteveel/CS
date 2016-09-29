@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=RandomArray(int,\ int)
+comment1.params=
+comment1.target=void\ loadArray2D()
+comment2.params=
+comment2.target=void\ printArray2D()
+comment3.params=
+comment3.target=void\ sortArray2D()
+comment4.params=
+comment4.target=int\ getMean2D()
+numComments=5
