@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=scr
+comment0.target=void\ addStudentToList(java.util.Scanner)
+comment1.params=theName
+comment1.target=int\ findByName(java.lang.String)
+comment2.params=theNumber
+comment2.target=int\ findByNumber(int)
+comment3.params=scr
+comment3.target=void\ deleteStudent(java.util.Scanner)
+comment4.params=theStudent
+comment4.target=void\ printStudent(Student)
+comment5.params=
+comment5.target=void\ printList()
+comment6.params=
+comment6.target=void\ clearList()
+comment7.params=scr
+comment7.target=void\ printStudent(java.util.Scanner)
+comment8.params=scr
+comment8.target=void\ editStudent(java.util.Scanner)
+numComments=9
